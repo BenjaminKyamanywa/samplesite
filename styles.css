@@ -167,7 +167,7 @@ img {
 
 /* Footer */
 
-footer {
+footer p {
     margin-top: 2rem;
     background: var(--dark);
     color: var(--light);
