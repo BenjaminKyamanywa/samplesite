@@ -82,7 +82,7 @@ img {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background-image: url("https://github.com/BenjaminKyamanywa/samplesite/blob/master/images/dark-photo-908283.jpeg");
+    background-image: url("/master/images/dark-photo-908283.jpeg");
     background-size: cover;
     background-position: center;
     padding: 3rem;
