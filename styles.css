@@ -153,19 +153,6 @@ img {
     padding: 3rem;
 }
 
-/* Portfolio */
-
-.portfolio {
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minimax(20px, 1fr));
-}
-
-.portfolio img {
-    width: 100%;
-    box-shadow: var(--shadow);
-}
-
 /* Footer */
 
 footer p {
