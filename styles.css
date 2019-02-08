@@ -82,7 +82,7 @@ img {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background-image: url("/master/images/dark-photo-908283.jpeg");
+    background-image: url("https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?cs=srgb&dl=daytime-flow-h2o-1295138.jpg&fm=jpg");
     background-size: cover;
     background-position: center;
     padding: 3rem;
