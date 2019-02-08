@@ -82,7 +82,11 @@ img {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
+<<<<<<< HEAD
     background-image: url("images/dark-photo-908283.jpeg");
+=======
+    background-image: url("sample/images/dark-photo-908283.jpeg");
+>>>>>>> fc56a5053813919cc7b080cdbaea9698554fd783
     background-size: cover;
     background-position: center;
     padding: 3rem;
